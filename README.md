@@ -8,7 +8,7 @@
      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
       
   <div style="display: inline_block"><br> 
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  src="https://cdn.discordapp.com/attachments/427990341086609411/919329365026803743/picasion.com_2b56569c2188f5371e37e4fd8a60877e.gif">
 </div>
 
  
